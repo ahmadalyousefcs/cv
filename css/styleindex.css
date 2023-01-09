@@ -1,0 +1,50 @@
+body{
+    height: 300px;
+    background-color:rgb(147, 147, 196) ;
+
+}
+.btn1
+{
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    /* border: none; */
+    border-color: red;
+    border-radius: 12px;
+}
+
+.btn1:hover
+{
+    background-color: yellow;
+    color: black;
+}
+#btn2
+{
+    height: 30px;
+    width: 60px;
+    background-color:green;
+    color:yellow;
+    /* border: none; */
+    /* border: 5px dotted  white; */
+    /* border: 2px dashed yellow; */
+    border: 6px solid rebeccapurple;
+   
+}
+.personlang
+{
+    background-color: rgb(139, 81, 81);
+    
+}
+ .personlang  ol li
+{
+    color: white;
+} 
+.personlang  ol  .li1
+{
+    color: rgb(250, 248, 248);
+} 
+.personlang .skil
+{
+    color: aqua;
+}
